@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"JS Snippets",
+		"JsFormat",
+		"LiveStyle",
+		"Minifier",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SVN",
+		"Terminal"
+	]
+}
